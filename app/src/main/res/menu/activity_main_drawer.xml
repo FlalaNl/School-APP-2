@@ -13,7 +13,7 @@
         <item
             android:id="@+id/nav_contactenlijst"
             android:icon="@drawable/ic_menu_contactenlijst"
-            android:title="contactenlijs" />
+            android:title="contactenlij" />
 
         <item
             android:id="@+id/nav_thema"
